@@ -36,17 +36,17 @@ Hi 👋 My name is Karan Singh
 
 <p align="left"> <a href="https://twitter.com/karansingh_ind" target="blank"><img src="https://img.shields.io/twitter/follow/karansingh_ind?logo=twitter&style=for-the-badge" alt="karansingh_ind" /></a> </p>
 
-- 🔭 I’m currently working on [Percecal](https://bit.ly/percecal-v6)
+
 
 - 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Java projects**
 
-- 📫 How to reach me **karannsinggh@gmail.com**
+- 📫 Contact me **karannsinggh@gmail.com**
 
-- ⚡ Fun fact **Java is easy than python**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Follow me on social media:</h3>
 
 <p align="left">
 
