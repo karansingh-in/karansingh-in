@@ -10,7 +10,7 @@ I am skilled enthusiast in development, and have my hands on experience in progr
 
 * ✉️  You can contact me at [karannsinggh@gmail.com](mailto:karannsinggh@gmail.com) 
 
-* 🤝  I build things with HTML,CSS,JS and Java.
+* 🤝  I build things with HTML, CSS, JS and Java.
 
 * 🤝  I'm open to collaborating on projects.
 
@@ -21,7 +21,7 @@ I am skilled enthusiast in development, and have my hands on experience in progr
 
 <a href="https://www.twitter.com/karansingh_ind" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/karansingh_ind?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/Undisclosed64" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.github.com/karansingh-in" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Undisclosed64?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
