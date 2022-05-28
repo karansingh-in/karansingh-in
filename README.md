@@ -4,7 +4,7 @@ Hi 👋 My name is Karan
 Currently I'm learning core java
 ----------------------------
 
-I am skilled enthusiast in development, and have my hands on experience in programming which includes languages like Javascript, CSS3, HTML. 
+I am skilled enthusiast in development, and have my hands on experience in programming which includes languages like Javascript, CSS3, HTML and Java. 
 
 ## Some things about me:
 
