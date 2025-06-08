@@ -1,20 +1,20 @@
 Hi 👋 My name is Karan
 =======================
 
-Currently I'm learning core java
+Currently working with python
 ----------------------------
 
-I am skilled enthusiast in development, and have my hands on experience in programming which includes languages like Javascript, CSS3, HTML and Java. 
+I am a skilled enthusiast in development, with hands-on experience in programming languages including Python, JavaScript, CSS3, HTML, and Java. 
 
 ## Some things about me:
 
 * ✉️  You can contact me at [karannsinggh@gmail.com](mailto:karannsinggh@gmail.com) 
 
-* 🤝  I build things with HTML, CSS, JS and Java.
+* 🤝  I build things with HTML, CSS, JS, Python and Java.
 
 * 🤝  I'm open to collaborating on projects.
 
-* ⚡  I absolutely love coding and I'm a foodie guy.
+  
 
 
 
@@ -27,6 +27,9 @@ src="https://img.shields.io/github/followers/karansingh-in?logo=github&style=for
 
 ### Skills
 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/Python" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
   
@@ -41,8 +44,10 @@ src="https://img.shields.io/github/followers/karansingh-in?logo=github&style=for
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/karansingh-in" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  
 <a href="https://https://www.linkedin.com/in/karan-singh-a35a52235" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/karansingh_ind" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<a href="https://www.twitter.com/karansingh_ind" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
