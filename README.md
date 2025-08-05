@@ -1,4 +1,4 @@
-Hi 👋 My name is Karan
+Hi 👋 I'm Karan
 =======================
 
 Currently working with python
@@ -46,7 +46,7 @@ src="https://img.shields.io/github/followers/karansingh-in?logo=github&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/karansingh-in" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<p align="left"> <a href="https://www.instagram.com/karannsinggh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
   
 <a href="https://https://www.linkedin.com/in/karan-singh-a35a52235" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
