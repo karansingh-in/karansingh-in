@@ -4,8 +4,7 @@ Hi 👋 I'm Karan
 
 <a href="https://www.x.com/karansingh_ind" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/karansingh_ind?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/karansingh-in" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/karansingh-in?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/></a>
 
 
 ### Skills and tools
