@@ -1,19 +1,6 @@
 Hi 👋 I'm Karan
 =======================
 
-Currently working with python
-----------------------------
-
-I am a skilled enthusiast in development, with hands-on experience in programming languages including Python, JavaScript, CSS3, HTML, and Java. 
-
-## Some things about me:
-
-* ✉️  You can contact me at [karannsinggh@gmail.com](mailto:karannsinggh@gmail.com) 
-
-* 🤝  I build things with HTML, CSS, JS, Python and Java.
-
-* 🤝  I'm open to collaborating on projects.
-
   
 
 
@@ -29,7 +16,6 @@ src="https://img.shields.io/github/followers/karansingh-in?logo=github&style=for
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/Python" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
   
@@ -39,8 +25,9 @@ src="https://img.shields.io/github/followers/karansingh-in?logo=github&style=for
 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="java" /></a>
 
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/Git" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/VScode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="vscode" /></a>
 
 
 
