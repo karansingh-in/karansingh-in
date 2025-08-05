@@ -25,7 +25,6 @@ src="https://img.shields.io/twitter/follow/karansingh_ind?logo=twitter&style=for
 <a href="https://https://www.linkedin.com/in/karan-singh-a35a52235" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.x.com/karansingh_ind" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
