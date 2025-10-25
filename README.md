@@ -17,8 +17,7 @@ src="https://img.shields.io/twitter/follow/karansingh_ind?logo=twitter&style=for
 <a href="https://developer.mozilla.org/en-US/docs/Web/Python" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="flask" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="django" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="numpy" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="pandas" /></a>
+
 
 <p>Tools</p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Git" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
